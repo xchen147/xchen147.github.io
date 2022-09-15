@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_PreSTU_Pre_Training_for_Scene_Text_Understanding
 excerpt: 'we propose PreSTU, a simple pre-training recipe specifically designed for scene-text understanding.'
 date: 2022-09-12
-venue: 'Jihyung Kil, Soravit Changpinyo, Xi Chen, Hexiang Hu, Sebastian Goodman, Wei-Lun Chao, Radu Soricut, arXiv:2209.05534'
+venue: '*Jihyung Kil, Soravit Changpinyo, **Xi Chen**, Hexiang Hu, Sebastian Goodman, Wei-Lun Chao, Radu Soricut, arXiv:2209.05534 (2022)*'
 paperurl: 'https://arxiv.org/abs/2209.05534'
 
 ---
