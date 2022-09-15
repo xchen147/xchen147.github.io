@@ -6,7 +6,6 @@ excerpt: '__PaLI__ (**Pa**thways **L**anguage and **I**mage model) achieves stat
 date: 2022-09-14
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2209.06794'
-citation: 'Xi Chen *et al* (2022); <i>arXiv:2209.06794</i>.'
 
 ---
 
