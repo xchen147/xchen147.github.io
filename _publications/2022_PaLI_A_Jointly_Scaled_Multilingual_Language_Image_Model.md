@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_PaLI_A_Jointly_Scaled_Multilingual_Language_Image_Model
 excerpt: '__PaLI__ (**Pa**thways **L**anguage and **I**mage model) achieves state-of-the-art in multiple vision and language tasks (such as captioning, visual question-answering, scene-text understanding), while retaining a simple, modular, and scalable design.'
 date: 2022-09-14
-venue: 'Xi Chen, Xiao Wang et al, arXiv:2209.06794'
+venue: '__Xi Chen__, Xiao Wang et al, arXiv:2209.06794'
 paperurl: 'https://arxiv.org/abs/2209.06794'
 
 ---
