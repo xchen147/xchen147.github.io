@@ -2,7 +2,7 @@
 title: "All You May Need for VQA are Image Captions"
 collection: publications
 permalink: /publication/2022_All_You_May_Need_for_VQA_are_Image_Captions
-excerpt: 'We propose a method that automatically derives VQA examples at volume, by leveraging the abundance of existing image-caption annotations combined with neural models for textual question generation..'
+excerpt: 'We propose a method that automatically derives VQA examples at volume, by leveraging the abundance of existing image-caption annotations combined with neural models for textual question generation.'
 date: 2022-05-04
 author: '*Soravit Changpinyo, Doron Kukliansky, Idan Szpektor, **Xi Chen**, Nan Ding, Radu Soricut*' 
 venue: 'arXiv:2205.01883 (2022)'
