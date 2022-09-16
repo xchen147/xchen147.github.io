@@ -7,6 +7,7 @@ date: 2022-09-14
 author: '*__Xi Chen__, Xiao Wang et al*'
 venue: 'arXiv:2209.06794 (2022)'
 paperurl: 'https://arxiv.org/abs/2209.06794'
+blogurl: 'https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html'
 
 ---
 
