@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Xi Chen's personal webpage
+I am a Machine Learning Researcher / Engineer at Google Research. My current research focus is vision and language multimodal learning to solve various V&L downstream tasks in a multilingual environment.
