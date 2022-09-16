@@ -2,7 +2,7 @@
 title: "Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset"
 collection: publications
 permalink: /publication/2022_Crossmodal_3600
-excerpt: 'In this paper we present the Crossmodal-3600 dataset (XM3600 in short), a geographically diverse set of 3600 images annotated with human-generated reference captions in 36 languages.'
+excerpt: 'We present the Crossmodal-3600 dataset (XM3600 in short), a geographically diverse set of 3600 images annotated with human-generated reference captions in 36 languages.'
 date: 2022-05-26
 author: '*Ashish V. Thapliyal, Jordi Pont-Tuset, **Xi Chen**, Radu Soricut*' 
 venue: 'arXiv:2205.12522 (2022)'
