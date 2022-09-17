@@ -3,7 +3,7 @@ title: "Bridging the Gap Between Practice and PAC-Bayes Theory in Few-Shot Meta-
 collection: publications
 permalink: /publication/2021_Bridging_the_Gap_Between_Practice_and_PAC_Bayes_Theory
 excerpt: 'We develop two PAC-Bayesian bounds tailored for the few-shot learning setting and show that two existing meta-learning algorithms (MAML and Reptile) can be derived from our bounds, thereby bridging the gap between practice and PAC-Bayesian theories.'
-date: 2021
+date: 2021-12-06
 author: '*Nan Ding, **Xi Chen**, Tomer Levinboim, Sebastian Goodman, Radu Soricut*' 
 venue: 'NeurIPS 2021'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/hash/f6b6d2a114a9644419dc8d2315f22401-Abstract.html'
